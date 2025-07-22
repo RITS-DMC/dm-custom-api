@@ -16,7 +16,7 @@ This will authorize the service through the protected XSUAA instance.
 
 **Step 5:**
 Test the API using Postman and verify it works as expected before using it in the production process.
-Note: test the API in Postman, provide the Client ID, Client Secret, and Token URL
+Note: Test the API in Postman, provide the Client ID, Client Secret, and Token URL
 
 
 
