@@ -3,8 +3,10 @@ Copy the project files to your BAS workspace.
 
 **Step 2:**
 Run the following commands to create the required services in Cloud Foundry:
-cf create-service destination lite dm-custom-api-destination
-cf create-service xsuaa application cap-custom-api-auth
+
+    cf create-service destination lite dm-custom-api-destination
+    
+    cf create-service xsuaa application cap-custom-api-auth
 
 **Step 3:**
 Push the dm-custom-api to Cloud Foundry.
